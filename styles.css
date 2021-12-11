@@ -1,0 +1,18 @@
+body{background-color: aliceblue;
+background-image:url(https://c4.wallpaperflare.com/wallpaper/694/157/316/cartoon-bear-masha-wallpaper-preview.jpg);
+background-size: cover;
+}
+hr{border-style: none;
+border-top-style:dashed;
+width:3%;
+border-width: 3px;
+border-color: rgba(64, 68, 60, 0.219);}
+h3:hover{color: rgba(192, 17, 26, 0.808);}
+h1{color: rgb(167, 236, 38);}
+img:hover{background-color:gold;}
+/******************class selector***************/
+.HP1{ color:rgb(206, 142, 24) ;}
+.HP2{ background-color:rgb(98, 50, 189) ;}
+.heading{ color:orchid;}
+.circular{border-radius: 100%;}
+/******************id selector***************/
